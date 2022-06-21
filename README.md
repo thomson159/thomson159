@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </h1>
 
-<img src="https://myoctocat.com/assets/images/octocats/octocat-16.png" />
+<!-- <img src="https://myoctocat.com/assets/images/octocats/octocat-16.png" /> -->
 
 <div>
 
