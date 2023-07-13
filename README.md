@@ -12,8 +12,6 @@ Software Developer
 <a href="https://www.github.com/thomson159" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thomson159?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
-### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -64,6 +62,6 @@ src="https://img.shields.io/github/followers/thomson159?logo=github&style=for-th
 
 <a href="https://github.com/thomson159" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomson159&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+<b>Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/thomson159/Ticket" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thomson159&repo=Ticket&title_color=64748b&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
