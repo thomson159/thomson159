@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate software developer
 -------------------
 
-![](http://i.imgur.com/OUkLi.gif)
+<div class="tenor-gif-embed" data-postid="3371108" data-share-method="host" data-aspect-ratio="1.71429" data-width="100%"><a href="https://tenor.com/view/comedy-it-crowd-roy-tech-help-off-and-on-gif-3371108">Off And On GIF</a>from <a href="https://tenor.com/search/comedy-gifs">Comedy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <a href="https://discord.com/users/716946817669005322" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
