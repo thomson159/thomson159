@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm thomson159
 ===============================================================================================================================
 
-Software developer
+Software Developer
 -------------------
 
 ![3WsH](https://github.com/thomson159/thomson159/assets/82395633/a477e009-3dfc-4d03-abbe-9319aec4fb93)
