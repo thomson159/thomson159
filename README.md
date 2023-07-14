@@ -15,6 +15,7 @@ A passionate software developer
 <a href="https://www.github.com/thomson159" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thomson159?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
+<a href="https://github.com/thomson159" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomson159&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 Software
 -------------
@@ -66,5 +67,3 @@ Crypto
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 <a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
 </p>
-
-<a href="https://github.com/thomson159" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomson159&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
