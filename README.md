@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate software developer
 -------------------
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ZzZfSOdMogaQ0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/football-athletics-sample-ZzZfSOdMogaQ0">via GIPHY</a></p>
+![3WsH](https://github.com/thomson159/thomson159/assets/82395633/a477e009-3dfc-4d03-abbe-9319aec4fb93)
 
 <a href="https://discord.com/users/716946817669005322" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
