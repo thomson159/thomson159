@@ -5,9 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://discord.com/users/716946817669005322" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
-* 🖥️  See my website at [thomson159.github.io](https://thomson159.github.io)
-* 🎲  See my game portfolio at [thomson159.itch.io](https://thomson159.itch.io)
-* 🚀  See my graphic portfolio at [thomson159.artstation.com](https://thomson159.artstation.com)
+* 🖥️  Website at [thomson159.github.io](https://thomson159.github.io)
+* 🎲  Game portfolio at [thomson159.itch.io](https://thomson159.itch.io)
+* 🚀  Graphic portfolio at [thomson159.artstation.com](https://thomson159.artstation.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/thomson159" target="_blank" rel="noreferrer"><img
