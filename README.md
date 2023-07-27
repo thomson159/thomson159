@@ -8,7 +8,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  [thomson159.github.io](https://thomson159.github.io)
 * 🎲  [thomson159.itch.io](https://thomson159.itch.io)
 * 🚀  [thomson159.artstation.com](https://thomson159.artstation.com)
-
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/thomson159" target="_blank" rel="noreferrer"><img
