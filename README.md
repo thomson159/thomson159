@@ -16,6 +16,20 @@ src="https://img.shields.io/github/followers/thomson159?logo=github&style=for-th
 <a href="https://github.com/thomson159" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomson159&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
+### **Web Projects Based on Templates**
+- 🌐 [WebCrafty](https://webcrafty.pl/) – Kreatywna strona z nowoczesnym podejściem do web designu
+- 🚀 [Duffla](https://duffla-pl.web.app/) – Portfolio firmy Duffla, profesjonalne i responsywne
+- 🖥️ [Web2App](https://web2app.app/) – Przekształcanie stron internetowych w aplikacje mobilne
+
+### **Company Projects**
+- 🏛️ [Politis](https://politis-da543.web.app/) – Innowacyjna platforma dla polityków i organizacji
+- 💰 [SilesiaCoin](https://silesiacoin.org/) – Kryptowalutowa platforma z zaawansowanymi funkcjami
+- 📊 [SilesiaCoin Dashboard](https://silesiacoin.org/dashboard) – Dashboard do zarządzania kryptowalutami
+
+### **Private Student Projects Built From Scratch**
+- 🎫 [Bilet](https://bilet-f7cf6.web.app/) – System sprzedaży biletów stworzony od podstaw
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
