@@ -40,7 +40,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🚀 [Duffla](https://duffla-pl.web.app/)
 - 🖥️ [Web2App](https://web2app.app/)
 
-#### **📝 Private Projects**
+#### **📝 Student Projects**
 - 🎫 [Bilet](https://bilet-f7cf6.web.app/)
 
 ---
