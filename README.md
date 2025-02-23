@@ -28,24 +28,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-### **Highlighted Projects**
-
-#### **💼 Company & Professional Projects**
-- 📈 [StatsPerform](https://www.statsperform.com/)
-- 🏛️ [Politis](https://politis-da543.web.app/)
-- 📊 [SilesiaCoin Dashboard](https://silesiacoin.org/dashboard)
-
-#### **🚀 Web Projects**
-- 🌐 [WebCrafty](https://webcrafty.pl/)
-- 🚀 [Duffla](https://duffla-pl.web.app/)
-- 🖥️ [Web2App](https://web2app.app/)
-- 😀 [r3kompensata](https://r3kompensata.pl/)
-
-#### **📝 Student Projects**
-- 🎫 [Bilet](https://bilet-f7cf6.web.app/)
-
----
-
 ### **Skills & Technologies**
 
 <p align="left">
