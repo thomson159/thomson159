@@ -3,17 +3,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![Profile Image](https://github.com/thomson159/thomson159/assets/82395633/a477e009-3dfc-4d03-abbe-9319aec4fb93)
 
-🚀 I am a passionate developer and designer, eager to create innovative projects. Feel free to reach out for collaborations!
+🚀 I am a passionate developer and designer, eager to create innovative projects.
+
+🤝 **Open to collaborations on interesting projects!**
 
 ---
 
 ### Find me on:
 <a href="https://discord.com/users/716946817669005322" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-- 🌐 [Personal Website](https://thomson159.github.io)
 - 🎮 [Itch.io](https://thomson159.itch.io)
 - 🎨 [ArtStation](https://thomson159.artstation.com)
-
-🤝 **Open to collaborations on interesting projects!**
 
 <a href="https://www.github.com/thomson159" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/thomson159?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" />
@@ -21,10 +20,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-### 📊 **Top Languages**
 <a href="https://github.com/thomson159" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomson159&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
+
+---
+
+### **Highlighted Projects**
+- 🏠 [Duffla](https://duffla-pl.web.app/)
+- 🚀 [Web2App](https://web2app.app/)
+- 🌐 [WebCrafty](https://webcrafty.pl/)
+- 🎫 [Bilet](https://bilet-f7cf6.web.app/)
+
+#### **[Stats Perform](https://www.statsperform.com/)**
+- 🎥 [PressBox Video](https://video.pressbox.statsperform.com/)
+
+#### **[M8B](https://m8b.pl/)**
+- 🏛️ [Politis](https://politis-da543.web.app/)
+- 📊 [SilesiaCoin Dashboard](https://silesiacoin.org/dashboard)
+- 😀 [r3kompensata](https://r3kompensata.pl/)
 
 ---
 
@@ -69,6 +83,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 <a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
 </p>
----
-
-Feel free to reach out if you have any interesting ideas or want to collaborate! 🎯
