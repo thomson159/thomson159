@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm **thomson159**
 ===============================================================================================================================
 
 ![Profile Image](https://github.com/thomson159/thomson159/assets/82395633/a477e009-3dfc-4d03-abbe-9319aec4fb93)
@@ -21,7 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 
 <a href="https://github.com/thomson159" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomson159&langs_count=10&hide=shell,ruby&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomson159&langs_count=10&hide=shell,ruby,mdx,css&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
 ---
